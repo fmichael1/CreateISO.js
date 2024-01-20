@@ -38,10 +38,3 @@ The `createISO.js` script operates as follows:
 The script is designed to handle errors gracefully:
 - **Directory Does Not Exist**: If the specified directory path does not exist, the script will output an error message indicating the issue.
 - **mkisofs Command Errors**: If there are any errors during the execution of the `mkisofs` command, the script will display relevant error information, helping in troubleshooting.
-
-## Contributing
-Contributions to improve `createISO.js` are always welcome:
-- **Forking and Pull Requests**: Feel free to fork this repository and submit pull requests with your enhancements or fixes.
-- **Issues and Features**: Open issues for any bugs you encounter or suggest new features that could enhance the functionality of the script.
-
-Your contributions and feedback help make this tool more effective for everyone!
