@@ -19,3 +19,8 @@ To use the script, follow these steps:
 
    ```bash
    node createISO.js [path_to_directory]
+   ```
+
+Replace `[path_to_directory]` with the path to the directory you want to convert.
+
+Example
